@@ -1,0 +1,26 @@
+{
+  "balls": [
+    {
+      "id": 1,
+      "backGroundColour": "red"
+    },
+    {
+      "id": 2,
+      "backGroundColour": "green"
+    },
+    {
+      "id": 4,
+      "backGroundColour": "blue"
+    },
+    {
+      "id": 3,
+      "backGroundColour": "orange"
+    }
+  ],
+  "newBalls": [
+    {
+      "id": 5,
+      "backGroundColour": "skyblue"
+    }
+  ]
+}
