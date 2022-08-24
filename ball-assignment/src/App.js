@@ -100,7 +100,7 @@ function App() {
         {
            <Stack id="balls" border={"1px solid black"} width="25%" padding={"2%"}>
            {
-             balls.map((elem)=>(
+             balls.sort((a,b)=>a.id-b.id).map((elem)=>(
                <Ball key={elem.id} color={elem.backGroundColour} id={elem.id} />
              ))
            }

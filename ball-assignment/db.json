@@ -5,22 +5,21 @@
       "backGroundColour": "red"
     },
     {
+      "id": 4,
+      "backGroundColour": "blue"
+    },
+    {
       "id": 2,
       "backGroundColour": "green"
     },
     {
-      "id": 4,
-      "backGroundColour": "blue"
+      "id": 5,
+      "backGroundColour": "skyblue"
     },
     {
       "id": 3,
       "backGroundColour": "orange"
     }
   ],
-  "newBalls": [
-    {
-      "id": 5,
-      "backGroundColour": "skyblue"
-    }
-  ]
+  "newBalls": []
 }
